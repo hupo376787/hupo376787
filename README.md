@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Flutter.
 - ⚡ Fun fact: I love photograph.
 
-[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=hupo376787&show_icons=true)](https://github.com/hupo376787/github-readme-stats)
-![](https://github.blog/wp-content/uploads/2019/05/mona-heart-featured.png?h=200)
+[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=hupo376787&show_icons=true)](https://github.com/hupo376787/github-readme-stats)![](https://github.blog/wp-content/uploads/2019/05/mona-heart-featured.png?h=200)
 
 <!--
 **hupo376787/hupo376787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
