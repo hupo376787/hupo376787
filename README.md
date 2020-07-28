@@ -4,7 +4,6 @@
 - ⚡ Fun fact: I love photograph and DOTA2.
 
 [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=hupo376787&show_icons=true)](https://github.com/hupo376787/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hupo376787)](https://github.com/hupo376787/github-readme-stats)-->
 ![](https://github.com/hupo376787/hupo376787/blob/master/VincentLoveGithub.jpg)
 
 <!--
