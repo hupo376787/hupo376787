@@ -1,7 +1,7 @@
 ### Hi 👋
 - 🔭 I’m currently working on UWP.
 - 🌱 I’m currently working in PCCW.
-- ⚡ Fun fact: I love photograph and DOTA2.
+- ⚡ Fun fact: I love photography and DOTA2.
 
 [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=hupo376787&show_icons=true)](https://github.com/hupo376787/github-readme-stats)
 ![](https://github.com/hupo376787/hupo376787/blob/master/VincentLoveGithub.jpg)
