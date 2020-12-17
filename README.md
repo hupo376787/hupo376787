@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Page Views Count](https://badges.toozhao.com/badges/01EMJYR5KSRW9Q9EEVKPY1X4RX/green.svg)](https://badges.toozhao.com/badges/01EMJYR5KSRW9Q9EEVKPY1X4RX/green.svg "Get your own page views count badge on badges.toozhao.com")
