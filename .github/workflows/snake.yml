@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+schedule:
+- cron: "0 2 * * *" # 每天自动运行
+workflow_dispatch: # 手动触发
+push:
+branches:
+- master
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+steps:
+# 生成贪吃蛇动画
+- name: Generate Snake Animation
+uses: Platane/snk/svg-only@v3
+with:
+github_user_name: ${{ github.repository_owner }}
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# 推送生成的SVG到output分支
+- name: Push Snake Animation to Output Branch
+uses: crazy-max/ghaction-github-pages@v4
+with:
+target_branch: output
+build_dir: dist
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
