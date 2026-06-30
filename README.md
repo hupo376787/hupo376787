@@ -4,6 +4,7 @@
 - ⚡ Fun fact: I love photography and DOTA2(I choose [Crystal Maiden](https://www.dotabuff.com/heroes/crystal-maiden)).
 
 [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=hupo376787&show_icons=true)](https://github.com/hupo376787/github-readme-stats)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=hupo376787)](https://github.com/hupo376787/github-readme-stats)
 <!--![](https://github.com/hupo376787/hupo376787/blob/master/VincentLoveGithub.jpg)-->
 
 ![亮色贪吃蛇](https://raw.githubusercontent.com/hupo376787/hupo376787/output/github-contribution-grid-snake.svg)
